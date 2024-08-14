@@ -2,3 +2,5 @@ Vaishnodevi Realty is a builder, developer and promoter company in real estate. 
 There are 2 more project coming soon with the same name:
 - Century Mansion Phase 1
 - Century Mansion Phase 2
+
+More details of the projects will be found in the website which is coming soon.
