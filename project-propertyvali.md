@@ -15,6 +15,7 @@
 - create infrastructure ad network diagram
 - create project plan with millstones and delivery dates
 - define quality gates and test strategy
+- find out all the user journeys and use cases need to be covered in MVP
 - create a website for project and property listing which should be responsive.
 - develop a database schema
 - develop a robust backend following microservices architecture.
