@@ -1,5 +1,13 @@
 # Goals and Objectives
-
+- Develop a unique website for buying and selling properties
+- Ease of use for end users, brokers, advertisers
+- Focus on the user journeys based on use cases
+- User rating should be more that 4.5 out of 5.
+- Implement our USPs
+- 3 R: right time, right audience and right message
+- Maintain documentation
+- Project timeline has to be achieved
+  
 # Scope and Functionality
 - create a UI/UX design keeping in mind of our competitor.
 - create a website for project and property listing which should be responsive.
