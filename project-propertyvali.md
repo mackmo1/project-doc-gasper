@@ -29,5 +29,6 @@
 - payment addons
 - compare properties feature
 - price evaluation and future price of property
+- integrations with internal and external systems
 
 # Technical Specifications
