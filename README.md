@@ -17,7 +17,9 @@ Here we are planning to provide end to end solution to the builders. We can enli
 We can take leverage of enlisting and selling properties of Century Mansion, Century Mansion Phase 1 and Century Mansion Phase 2. 
 
 ## Project [wonderful homes](project-wonderfulhomes.md)
-The problem seen with the home buyers today is they don't have one stop website or app where they can find everything related to new house or apartment like layers, civil engineers, architects, interior decorator, painters, carpenters, building material and hardware suppliers. To solve this problem we have plan to start physical stores in a big space where we can accommodate some if not all of the sales and services supported by online ecommerce website which have full range of sales and supplies.
+The problem seen with the home buyers today is they don't have one stop website or app where they can find everything related to new house or apartment like legal advisor, civil engineers, architects, interior decorator, painters, carpenters, building material and hardware suppliers. To solve this problem we have plan to start physical stores in a big space where we can accommodate some if not all of the sales and services, supported by online ecommerce website which have full range of sales and supplies.
+
+We can take leverage of physical stores in Century Mansion and starting selling online. 
 
 # Target audience
 This is common document for all the stakeholders working with us, can be business analyst, solution architect, IT architect, developers, project manager.
