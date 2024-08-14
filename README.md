@@ -16,3 +16,6 @@ We can take leverage of enlisting and selling properties of Century Mansion, Cen
 
 ## Project [wonderful homes](project-wonderfulhomes.md)
 The problem seen with the home buyers today is they don't have one stop website or app where they can find everything related to new house or apartment like layers, civil engineers, architects, interior decorator, painters, carpenters, building material and hardware suppliers. To solve this problem we have plan to start physical stores in a big space where we can accommodate some if not all of the sales and services supported by online ecommerce website which have full range of sales and supplies.
+
+# Target audience
+This is common document for all the stakeholders working with us, can be business analyst, solution architect, IT architect, developers, project manager.
