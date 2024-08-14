@@ -13,3 +13,6 @@ The problem which is seen today is that there are websites for buying, selling a
 Here we are planning to provide end to end solution to the builders. We can enlist there projects and properties, generate leads with digital marketing, handle the leads and close a deal just like a property broker does, but our goal is to provide these services with advanced technology.
 
 We can take leverage of enlisting and selling properties of Century Mansion, Century Mansion Phase 1 and Century Mansion Phase 2. 
+
+## Project wonderful homes
+The problem seen with the home buyers today is they don't have one stop website or app where they can find everything related to new house or apartment like layers, civil engineers, architects, interior decorator, painters, carpenters, building material and hardware suppliers. To solve this problem we have plan to start physical stores in a big space where we can accommodate some if not all of the sales and services supported by online ecommerce website which have full range of sales and supplies.
