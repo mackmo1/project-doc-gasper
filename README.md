@@ -23,3 +23,4 @@ We can take leverage of physical stores in Century Mansion and starting selling 
 
 # Target audience
 This is common document for all the stakeholders working with us, can be business analyst, solution architect, IT architect, developers, project manager.
+The websites will be used initially by Indians all over the world who are salaried employees with stable income.
