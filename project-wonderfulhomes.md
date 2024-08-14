@@ -15,6 +15,7 @@
 - create infrastructure ad network diagram
 - create project plan with millstones and delivery dates
 - define quality gates and test strategy
+- find out all the user journeys and use cases need to be covered in MVP
 - create a ecommerce website for buying, selling and booking service from sellers and professionals which should be responsive.
 - develop a database schema
 - develop a robust backend following microservices architecture.
