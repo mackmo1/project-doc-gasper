@@ -9,7 +9,12 @@
 - Project timeline has to be achieved
   
 # Scope and Functionality
+- find out all the components and modules need to be developed in MVP
 - create a UI/UX design keeping in mind of our competitor.
+- create high level architecture diagram
+- create infrastructure ad network diagram
+- create project plan with millstones and delivery dates
+- define quality gates and test strategy
 - create a website for project and property listing which should be responsive.
 - develop a database schema
 - develop a robust backend following microservices architecture.
