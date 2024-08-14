@@ -7,7 +7,7 @@ There are 2 more projects with same name Century Mansion phase 1 and Century Man
 
 # Problem and opportunity
 
-## Project propertyvali.in
+## Project [propertyvali.in](project-propertyvali.md)
 The problem which is seen today is that there are websites for buying, selling and renting properties but they are not providing additional services, it works as a platform for listing properties. 
 
 Here we are planning to provide end to end solution to the builders. We can enlist there projects and properties, generate leads with digital marketing, handle the leads and close a deal just like a property broker does, but our goal is to provide these services with advanced technology.
