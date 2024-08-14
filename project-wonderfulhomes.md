@@ -1,0 +1,25 @@
+# Goals and Objectives
+- Develop an ecommerce website for buying, selling and booking service from sellers and professionals
+- Ease of use for end users, suppliers, service providers
+- Focus on the user journeys based on use cases
+- User rating should be more that 4.5 out of 5.
+- Implement our USPs
+- 3 R: right time, right audience and right message
+- Maintain documentation
+- Project timeline has to be achieved
+
+# Scope and Functionality
+- create a UI/UX design for simple to use
+- create a ecommerce website for buying, selling and booking service from sellers and professionals which should be responsive.
+- develop a database schema
+- develop a robust backend following microservices architecture.
+- user registration and management with high security to protect customer data.
+- user interface to enlist property
+- broker registration interface
+- admin panel to managing users and property listing and brokers
+- integration with social media and digital marketing platforms
+- chatbot to answer user's queries
+- SEO enabled
+- payment addons
+- compare properties feature
+- price evaluation and future price of property
