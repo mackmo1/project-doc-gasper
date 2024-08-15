@@ -1,12 +1,14 @@
 # Goals and Objectives
 - Develop an ecommerce website for buying, selling and booking service from sellers and professionals
 - Ease of use for end users, suppliers, service providers
-- Focus on the user journeys based on use cases
+- Focus on the use cases based on user journeys
 - User rating should be more that 4.5 out of 5.
 - Implement our USPs
-- 3 R: right time, right audience and right message
+- 3 R communication: right time, right audience and right message
 - Maintain documentation
 - Project timeline has to be achieved
+- Plan is to finalize project scope, timeline and cost in Aug-24
+- kick start project on first week of Sep-24
 
 # Project Overview
 - find out all the components and modules need to be developed in MVP
