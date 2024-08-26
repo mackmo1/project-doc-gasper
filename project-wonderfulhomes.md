@@ -14,7 +14,7 @@
 - find out all the components and modules need to be developed in MVP
 - create a UI/UX design keeping in mind of our competitor.
 - create high level architecture diagram
-- create infrastructure ad network diagram
+- create infrastructure and network diagram
 - create project plan with millstones and delivery dates
 - define quality gates and test strategy
 - find out all the user journeys and use cases need to be covered in MVP
@@ -22,13 +22,8 @@
 - develop a database schema
 - develop a robust backend following microservices architecture.
 - user registration and management with high security to protect customer data.
-- user interface to enlist property
-- broker registration interface
-- admin panel to managing users and property listing and brokers
 - integration with social media and digital marketing platforms
 - chatbot to answer user's queries
 - SEO enabled
 - payment addons
-- compare properties feature
-- price evaluation and future price of property
 - integrations with internal and external systems
